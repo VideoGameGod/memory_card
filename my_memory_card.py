@@ -1,3 +1,6 @@
+#Great app!
+
+
 #create a memory card application
 from PyQt5.QtCore import Qt
 from random import shuffle
